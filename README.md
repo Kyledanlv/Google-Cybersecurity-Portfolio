@@ -1,6 +1,7 @@
 Vu Le Minh Hieu - Google Cyber Security Portfolio
 Certificate:
-[GoogleSecuritySpecialization.pdf](https://github.com/user-attachments/files/16703225/GoogleSecuritySpecialization.pdf)
+![image](https://github.com/user-attachments/assets/d1a7e3df-84f5-4aee-ad7d-3809a78db5ab)
+
 
 Those who earn the Google Cybersecurity Certificate have completed eight courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for entry-level roles in cybersecurity.
 
